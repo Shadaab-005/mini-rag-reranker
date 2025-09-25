@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers>=2.2.2
+faiss-cpu
+rank-bm25
+pandas
+python-multipart
+requests
+PyMuPDF           
